@@ -1,0 +1,27 @@
+{
+  "name": "first_homework_bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aboutus.html",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aharkergutierrez/tarea_uno_bootstrap.git"
+  },
+  "author": "Andres Harker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aharkergutierrez/tarea_uno_bootstrap/issues"
+  },
+  "homepage": "https://github.com/aharkergutierrez/tarea_uno_bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
